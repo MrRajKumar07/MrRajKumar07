@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**MrRajKumar07/MrRajKumar07** is a ✨ _special_ ✨ repository because .
+**MrRajKumar07/MrRajKumar07** is a ✨ _special_ ✨ repository because  this.
 <!--
 Here are some ideas to get you started:
 
