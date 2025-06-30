@@ -1,7 +1,7 @@
 ## Hi Developer 👋
 
 
-**MrRajKumar07/MrRajKumar07** is a ✨ _special_ ✨ repository because  this Way.
+**MrRajKumar07/MrRajKumar07** is a ✨ _special_ ✨ repository because  this Way to enhance profile.
 <!--
 Here are some ideas to get you started:
 
