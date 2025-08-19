@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrrajkumar07&label=Profile%20views&color=0e75b6&style=flat" alt="mrrajkumar07" /> </p>
 
-- 🔭 I’m currently working on [Smart Ticketing and Reservation System using SpringBoot](https://github.com/MrRajKumar07/IDCTS)
+- 🔭 I’m currently working on [Smart Ticketing And Reservation System Using SpringBoot](https://github.com/MrRajKumar07/IDCTS)
 
 - 🌱 I’m currently learning **J2EE,SpringBoot,AWS(EC2,S3)**
 
