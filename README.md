@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/user-attachments/assets/6996bf39-754f-4363-9f81-7767309bd0b0)
+![MasterHead](https://github.com/user-attachments/assets/1886012e-ba42-4fda-aa9f-dbd76d72e465)
 <h1 align="center">Hi 👋, I'm Raj Kumar</h1>
 <h3 align="center">🎯 Aspiring Java Developer ||🌱 Proficient in Java, Spring Boot, and Web Development <br>
 💡 Passionate Learner Exploring Cloud Technologies</h3>
